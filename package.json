@@ -2,7 +2,7 @@
   "name": "gpa-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abdullatif-kh.github.io/GPA-Calculator",
+  "homepage": "https://Abdullatif-kh.github.io/GPA-Calculator-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
