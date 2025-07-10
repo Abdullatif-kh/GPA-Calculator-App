@@ -169,9 +169,6 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Developer
 
 **Developed by Abdullatif Alkhanabshi**
-- 🌐 Professional React developer
-- 🎓 Specializing in educational technology
-- 📧 Committed to creating user-friendly academic tools
 
 ---
 
